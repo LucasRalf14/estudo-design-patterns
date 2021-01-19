@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES2019",                         //ambiente onde vai rodar o projeto, qual a versão
+        "module": "CommonJS",                       // como vai utilizar node, vai usar o sistema de modulos
+        "lib": ["ESNext","DOM"],                    // [DOM]se precisar de "consult" (n escutei) ou log
+        "outDir": "./dist",                         //a saida, pra qual pasta vai compilar
+        "rootDir": "./src",                         // raiz do projeto
+        "removeComments": true,                     //sem comentarios do código compilado
+        "noEmitOnError": true,                      //não emitir código de compilado. erro? 
+        "strict": true,                             // trabalhar no modo restrito
+        "esModuleInterop": true,                    // habilita interompelabilidade (ja vem por padrão)
+        "skipLibCheck": true,                       // pular checagem de arquivo de declaration files, pra acelerar, arquivos com .d .ts
+        "forceConsistentCasingInFileNames": true    // não permitir referências inconsistentes para nomes de arquivos
+    },
+    "include": [ //para checar a pasta
+        "./src",
+    ]
+}

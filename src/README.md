@@ -5,5 +5,5 @@
 
 ## <b>Os Padrões</b>
 
-* Singleton <[README](https://github.com/LucasRalf14/estudo-design-patterns/tree/master/src/creational/singleton)> <[CODE](./singleton.md)>
+* Singleton <[README](https://github.com/LucasRalf14/estudo-design-patterns/tree/master/src/creational/singleton)> <[CODE](https://github.com/LucasRalf14/estudo-design-patterns/tree/master/src/creational/singleton)>
 * Prototype

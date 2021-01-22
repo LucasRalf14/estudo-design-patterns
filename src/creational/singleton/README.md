@@ -19,10 +19,10 @@
 * Getter para instance - aqui decidimos se criamos uma nova instância ou retornamos a instância já criada
 * Quaisquer métodos necessários para o Singleton
 
-[comment]: < ![estrutura do singleton](./img/Singleton-image.png)  >
+[comment]: < ![estrutura do singleton](../../../img/Singleton-image.png)  >
 
 <p width= 30%; align="center">
-  <img src=".//img/Singleton-image.png" width="170"  title="estrutura do singleton" alt="accessibility text">
+  <img src="../../../img/Singleton-image.png" width="170"  title="estrutura do singleton" alt="accessibility text">
 </p>
 
 ## <b style="color: red">Implementação</b>
